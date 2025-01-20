@@ -1,0 +1,52 @@
+{
+  "seller": [
+    {
+      "id": "ba5f",
+      "name": "Shabana Parveen",
+      "password": "shk@123",
+      "email": "shk123@gmail.com"
+    },
+    {
+      "id": "8a53",
+      "name": "adeeba shaheed",
+      "password": "adeeba@123",
+      "email": "adeeba123@gmail.com"
+    },
+    {
+      "id": "564a",
+      "name": "rishika yadav",
+      "password": "rishika@123",
+      "email": "rishika123@gmail.com"
+    },
+    {
+      "id": "3d6b",
+      "name": "Rajat Gupta",
+      "password": "rajat@123",
+      "email": "rajat123@gmail.com"
+    },
+    {
+      "id": "3b7e",
+      "name": "Raman Rar",
+      "password": "raman@123",
+      "email": "raman123@gmail.com"
+    },
+    {
+      "id": "ffa8",
+      "name": "Rakshit Shukla",
+      "password": "rakshit@123",
+      "email": "rakshit123@gmail.com"
+    },
+    {
+      "id": "c8d2",
+      "name": "Awni Yadav",
+      "password": "awni@123",
+      "email": "awni123@gmail.com"
+    },
+    {
+      "id": "92ff",
+      "name": "Irfan Ansari",
+      "password": "irfan@123",
+      "email": "irfan123@gmail.com"
+    }
+  ]
+}
